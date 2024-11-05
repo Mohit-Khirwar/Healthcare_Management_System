@@ -28,4 +28,4 @@ For more features, please refer to the **E-R Diagram** in the repository.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## ER Diagram
-![ER Diagram](ER_diagram.jpg)
+![ER Diagram](er_dia.png)
